@@ -1,0 +1,2 @@
+installs the external assets
+deprecated as of 1.1 alpha 7 aka alpha 3 in change logs
